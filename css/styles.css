@@ -1,0 +1,105 @@
+/*----GENERAL STYLES----*/
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700!Exo:100,200,300,400,500,600,700');
+
+.index-body {
+    height: 100vh;
+    background: url("../images/background.JPG") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    /*display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;*/
+}
+
+.band-body {
+    height: 100vh;
+    background-color: #1a3156;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+/*----NAVBAR STYLES----*/
+
+.main-navbar {
+    background-color: transparent;
+    min-height: 100px;
+    position: fixed;
+    top: 0;
+    width: 100%
+}
+
+.main-navbar .nav-list {
+    text-transform: uppercase;
+    padding-top: 30px;
+    font-size: 25px;
+    font-family: "Exo", sans-serif;
+    font-weight: 600;
+}
+
+.main-navbar a {
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: rgba(255, 255, 255, 0.65);
+}
+
+.main-navbar a:hover {
+    color: #ffffff;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.main-navbar ul li a.active-page {
+    color: #ffffff;
+}
+
+.social-media {
+    text-align: right;
+    padding-top: 30px;
+}
+
+.social-media i {
+    font-size: 25px;
+    color: #ffffff;
+}
+
+.main-navbar i:hover {
+    color: red;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+/*----MAIN SECTION STYLES----*/
+
+
+
+/*----FOOTER STYLES----*/
+
+.main-footer {
+    background-color: transparent;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    
+}
+
+h3, h4 {
+    font-family: "Exo", sans-serif;
+    color: rgba(255, 255, 255, .5);
+    font-size: 15px;
+}
+
+.footer-social-media i {
+    font-size: 15px;
+    color: #4575c1;
+}

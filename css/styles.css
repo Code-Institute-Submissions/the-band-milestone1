@@ -56,7 +56,7 @@
     -o-transition: all 0.35s ease-in-out;
 }
 
-.main-navbar ul li a.active-page {
+.main-navbar ul li .active-page {
     color: #ffffff;
 }
 
@@ -78,8 +78,49 @@
     -o-transition: all 0.35s ease-in-out;
 }
 
-/*----MAIN SECTION STYLES----*/
 
+/*----MAIN SECTION BAND STYLES----*/
+
+/*----MAIN SECTION MEDIA STYLES----*/
+
+/*----MAIN SECTION EVENTS STYLES----*/
+
+.events-main {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.events-main p {
+    font-family: "Exo", sans-serif;
+    font-weight: 200;
+    margin-top: 25px;
+    margin-bottom: 20px;
+    color: #ffffff;
+}
+
+.contact-heading {
+    font-family: "Exo", sans-serif;
+    font-weight: 300;
+    margin-top: 25px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    color: #ffffff;
+}
+
+.center-form {
+    padding-top: 10px;
+    margin: 0 auto;
+    max-width: 70%;
+}
+
+button[type="submit"] {
+    margin-top: 15px;
+    margin-bottom: 20px;
+    background-color: #4575c1;
+    color: #fafafa;
+}
 
 
 /*----FOOTER STYLES----*/

@@ -1,54 +1,74 @@
-/*----GENERAL STYLES----*/
+/* GENERAL STYLES */
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700!Exo:100,200,300,400,500,600,700');
 
 .index-body {
     height: 100vh;
-    background: url("../images/background.JPG") no-repeat center center fixed;
+    background: url("../images/background.JPG") no-repeat center  center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    /*display: flex;
-    align-items: center;
-    justify-content: center;
-    position: relative;*/
 }
 
 .band-body {
     height: 100vh;
-    background-color: #151a2a;
+    background-color: #1f2a38;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
 }
 
-/*----NAVBAR STYLES----*/
+/* NAVBAR HOME */
 
-.main-navbar {
+.navbar {
     background-color: transparent;
-    min-height: 100px;
-    position: fixed;
-    top: 0;
-    width: 100%
+    min-height: 50px;
+    border: none;
 }
 
-.main-navbar .nav-list {
+.navbar .navbar-header .navbar-brand {
+    padding-top: 35px;
+}
+
+.navbar .navbar-header a {
     text-transform: uppercase;
-    padding-top: 30px;
+    font-size: 25px;
+    font-family: "Exo", sans-serif;
+    font-weight: 600;
+    color: rgba(255, 255, 255, 0.65);
+}
+
+.navbar .navbar-header a:hover {
+    color: #ffffff;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.navbar .navbar-header .active-page {
+    color: #ffffff;
+}
+
+/* NAVBAR OTHER OPTIONS */
+
+.navbar .navbar-nav {
+    text-transform: uppercase;
+    padding-top: 20px;
     font-size: 25px;
     font-family: "Exo", sans-serif;
     font-weight: 600;
 }
 
-.main-navbar a {
+.navbar .navbar-nav a {
     text-decoration: none;
     padding-left: 10px;
     padding-right: 10px;
     color: rgba(255, 255, 255, 0.65);
 }
 
-.main-navbar a:hover {
+.navbar .navbar-nav li a:hover {
     color: #ffffff;
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
@@ -56,26 +76,37 @@
     -o-transition: all 0.35s ease-in-out;
 }
 
-.main-navbar ul li .active-page {
+.navbar .navbar-nav .active-page {
     color: #ffffff;
 }
 
+/* NAVBAR TOOGLE BUTTON */
+
+.navbar-default .navbar-toggle {
+    border: 0;
+}
+.navbar-default .navbar-toggle:hover {
+    background-color: transparent;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: white;
+}
+
+
+
+
+/* NAVBAR SOCIAL MEDIA */
+
 .social-media {
     text-align: right;
-    padding-top: 30px;
+    padding-top: 20px;
+    padding-right: 30px;
 }
 
 .social-media i {
     font-size: 25px;
     color: #ffffff;
-}
-
-.main-navbar i:hover {
-    color: red;
-    transition: all 0.35s ease-in-out;
-    -moz-transition: all 0.35s ease-in-out;
-    -webkit-transition: all 0.35s ease-in-out;
-    -o-transition: all 0.35s ease-in-out;
 }
 
 

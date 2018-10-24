@@ -143,8 +143,10 @@
 }
 
 .picture {
-    height: 200px;
+    height: 255px;
     width: 32.5%;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 /*----MAIN SECTION MEDIA STYLES----*/
@@ -193,7 +195,7 @@ button[type="submit"] {
 
 .main-footer {
     background-color: transparent;
-    position: fixed;
+    position: relative;
     bottom: 0;
     width: 100%;
     text-align: center;

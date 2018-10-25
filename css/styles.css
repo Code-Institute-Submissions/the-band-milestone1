@@ -8,6 +8,10 @@
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
 }
 
 .band-body {
@@ -17,6 +21,8 @@
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    align-items: center;
+    justify-content: center;
 }
 
 /* NAVBAR HOME */
@@ -36,7 +42,6 @@
     font-size: 25px;
     font-family: "Exo", sans-serif;
     font-weight: 600;
-    color: rgba(255, 255, 255, 0.65);
     border: none;
 }
 
@@ -113,9 +118,13 @@
 
 .main-section {
     position: relative;
-    top: 80px;
-    padding-right: 30px;
-    padding-left: 30px;
+    top: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.band-history {
+    margin: auto;
 }
     
 .band-history img {
@@ -142,9 +151,14 @@
     padding-left: 10px;
 }
 
+.band-images {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
 .picture {
     height: 255px;
-    width: 32.5%;
+    width: 33.25%;
     padding-top: 5px;
     padding-bottom: 5px;
 }
@@ -212,4 +226,12 @@ h3, h4 {
 .footer-social-media i {
     font-size: 15px;
     color: #4575c1;
+}
+
+.band-footer {
+    background-color: transparent;
+    position: relative;
+    width: 100%;
+    text-align: center;
+    padding-top: 20px;
 }

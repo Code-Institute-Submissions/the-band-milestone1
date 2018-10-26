@@ -150,6 +150,31 @@
 
 /*----MAIN SECTION MEDIA STYLES----*/
 
+.audio {
+    height: 400px;
+    width: 400px;
+}
+
+.audio img {
+    height: 100%;
+    width: 100%;
+    padding: 10px;
+}
+
+.main-section h3 {
+    font-family: "Exo", sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    color: #ffffff;
+}
+
+.main-section .audio ol li {
+    font-family: "Exo", sans-serif;
+    font-size: 12px;
+    font-weight: 100;
+    color: #ffffff;
+}
+
 /*----MAIN SECTION EVENTS STYLES----*/
 
 .events-main {
@@ -200,7 +225,6 @@ button[type="submit"] {
     bottom: 0;
     width: 100%;
     text-align: center;
-    
 }
 
 h3, h4 {
@@ -214,7 +238,7 @@ h3, h4 {
     color: #4575c1;
 }
 
-.band-footer {
+.secondary-footer {
     background-color: transparent;
     position: relative;
     width: 100%;

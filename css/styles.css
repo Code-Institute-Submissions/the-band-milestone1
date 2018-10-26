@@ -25,7 +25,7 @@
     justify-content: center;
 }
 
-/* NAVBAR HOME */
+/* NAVBAR TOGGLE BUTTON */
 
 .navbar {
     background-color: transparent;
@@ -33,31 +33,7 @@
     border: none;
 }
 
-.navbar .navbar-header .navbar-brand {
-    padding-top: 35px;
-}
-
-.navbar .navbar-header a {
-    text-transform: uppercase;
-    font-size: 25px;
-    font-family: "Exo", sans-serif;
-    font-weight: 600;
-    border: none;
-}
-
-.navbar .navbar-header a:hover {
-    color: #ffffff;
-    transition: all 0.35s ease-in-out;
-    -moz-transition: all 0.35s ease-in-out;
-    -webkit-transition: all 0.35s ease-in-out;
-    -o-transition: all 0.35s ease-in-out;
-}
-
-.navbar .navbar-header .active-page {
-    color: #ffffff;
-}
-
-/* NAVBAR OTHER OPTIONS */
+/* NAVBAR OPTIONS */
 
 .navbar .navbar-nav {
     text-transform: uppercase;
@@ -91,13 +67,15 @@
 .navbar-default .navbar-toggle {
     border: 0;
 }
+
 .navbar-default .navbar-toggle:hover {
     background-color: transparent;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-    background-color: white;
+    background-color: #ffffff;
 }
+
 
 
 /* NAVBAR SOCIAL MEDIA */
@@ -109,7 +87,7 @@
 }
 
 .social-media i {
-    font-size: 25px;
+    font-size: 20px;
     color: #ffffff;
 }
 
@@ -118,13 +96,14 @@
 
 .main-section {
     position: relative;
-    top: 10px;
+    top: 30px;
     padding-right: 20px;
     padding-left: 20px;
 }
 
 .band-history {
-    margin: auto;
+    margin-left: 10px;
+    margin-right: 10px;
 }
     
 .band-history img {
@@ -145,22 +124,27 @@
 
 .band-history p {
     font-family: "Exo", sans-serif;
-    font-size: 14px;
+    font-size: 13px;
     font-weight: 100;
     color: #ffffff;
-    padding-left: 10px;
+    text-align: justify;
 }
 
 .band-images {
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .picture {
-    height: 255px;
-    width: 33.25%;
+    height: 300px;
+    width: 410px;
     padding-top: 5px;
     padding-bottom: 5px;
+}
+
+.picture img {
+    width: 100%;
+    height: 100%;
 }
 
 
@@ -178,6 +162,7 @@
 .events-main p {
     font-family: "Exo", sans-serif;
     font-weight: 200;
+    font-size: 14px;
     margin-top: 25px;
     margin-bottom: 20px;
     color: #ffffff;
@@ -186,6 +171,7 @@
 .contact-heading {
     font-family: "Exo", sans-serif;
     font-weight: 300;
+    font-size: 14px;
     margin-top: 25px;
     margin-bottom: 20px;
     text-transform: uppercase;

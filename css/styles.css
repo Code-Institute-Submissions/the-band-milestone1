@@ -150,14 +150,19 @@
 
 /*----MAIN SECTION MEDIA STYLES----*/
 
-.audio {
-    height: 400px;
-    width: 400px;
+.audio-section {
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
-.audio img {
-    height: 100%;
-    width: 100%;
+/*.audio {
+    height: 400px;
+    width: 400px;
+}*/
+
+.audio-section img {
+    height: 300px;
+    width: 300px;
     padding: 10px;
 }
 
@@ -168,7 +173,7 @@
     color: #ffffff;
 }
 
-.main-section .audio ol li {
+.main-section .audio-section ol li {
     font-family: "Exo", sans-serif;
     font-size: 12px;
     font-weight: 100;

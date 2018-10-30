@@ -162,6 +162,10 @@
     padding: 10px;
 }
 
+.audio-section .album-details {
+    text-align: center;
+}
+
 .main-section h3 {
     font-family: "Exo", sans-serif;
     font-size: 20px;
@@ -176,10 +180,19 @@
     font-weight: 300;
     color: #ffffff;
     padding-top: 15px;
+    text-align: center;
+}
+
+.main-section h5 {
+    font-family: "Exo", sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    color: #ffffff;
+    padding-top: 15px;
     text-align: justify;
 }
 
-.main-section .audio-section ol li {
+.main-section .audio-section ul li {
     font-family: "Exo", sans-serif;
     font-size: 12px;
     font-weight: 100;

@@ -133,6 +133,7 @@
 .band-images {
     margin-left: 10px;
     margin-right: 10px;
+    
 }
 
 .picture {
@@ -166,6 +167,16 @@
     font-size: 20px;
     font-weight: 300;
     color: #ffffff;
+}
+
+
+.main-section h4 {
+    font-family: "Exo", sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    color: #ffffff;
+    padding-top: 15px;
+    text-align: justify;
 }
 
 .main-section .audio-section ol li {

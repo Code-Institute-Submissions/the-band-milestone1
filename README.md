@@ -45,6 +45,23 @@ index.html background taken from: https://wallhere.com/en/wallpaper/791453
 history of the band taken from: https://www.thedoors.com/the-band
 information about songs and videos from media.html are taken from wikipedia.org
 
+PICTURES
+band_picture_01 taken from https://www.discoverlosangeles.com/blog/experience-the-doors-los-angeles
+band_picture_02 taken from https://www.discoverlosangeles.com/blog/experience-the-doors-los-angeles
+band-picture_03 taken from http://thedoors.com/wp-content/uploads/2016/02/bio-full-band.jpg
+band_performing_01 taken from https://twitter.com/crockpics/status/995069813830619136
+band_performing_02 taken from https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ_IwlwTA0TOpsVa7b7eoe0rau3X6xWMQtQ6Dgcyk8cNsHnTRd
+band_performing_03 http://2.bp.blogspot.com/-HNWXykBDkD0/UN6RmgppgoI/AAAAAAAAHkA/KCOsE0BrExg/s1600/08+the-doors+2.jpg
+band_performing_04 taken from https://artprints.globephotos.com/wp-content/uploads/2742980.jpg
+band_performing_05 taken from http://www.doorshistory.com/phoenix1.jpg
+band-performing_06 taken from http://archives.library.wcsu.edu/omeka/files/original/Western_Connecticut_State_University_Photographs_and_Miscellanea_RG8/1370/rg8_08_16.jpg
+
+VIDEO
+https://vimeo.com/59187988 480x360
+https://vimeo.com/59220390 480x360
+
+MP3
+
 
 7a. Content
 7b. Media 

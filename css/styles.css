@@ -3,7 +3,7 @@
 
 .index-body {
     height: 100vh;
-    background: url("../images/background.JPG") no-repeat center center fixed;
+    background: url("../images/the_doors_main_background.jpg") no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -16,7 +16,7 @@
 
 .band-body {
     height: 100vh;
-    background-color: #1f2a38;
+    background-color: #000000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -38,15 +38,15 @@
 .navbar .navbar-nav {
     text-transform: uppercase;
     padding-top: 20px;
-    font-size: 25px;
+    font-size: 35px;
     font-family: "Exo", sans-serif;
     font-weight: 600;
 }
 
 .navbar .navbar-nav a {
     text-decoration: none;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
     color: rgba(255, 255, 255, 0.65);
 }
 
@@ -78,7 +78,7 @@
 
 
 
-/* NAVBAR SOCIAL MEDIA */
+/* NAVBAR SOCIAL MEDIA
 
 .social-media {
     text-align: right;
@@ -89,7 +89,7 @@
 .social-media i {
     font-size: 20px;
     color: #ffffff;
-}
+} */
 
 
 /*----MAIN SECTION BAND STYLES----*/
@@ -139,8 +139,8 @@
 .picture {
     height: 300px;
     width: 410px;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 
 .picture img {
@@ -257,15 +257,15 @@ button[type="submit"] {
     text-align: center;
 }
 
-h3, h4 {
+.main-footer h3, h4 {
     font-family: "Exo", sans-serif;
-    color: rgba(255, 255, 255, .5);
-    font-size: 15px;
+    color: #ffffff;
+    font-size: 20px;
 }
 
-.footer-social-media i {
-    font-size: 15px;
-    color: #4575c1;
+.footer-social-media  i {
+    font-size: 20px;
+    color: #ffffff;
 }
 
 .secondary-footer {
@@ -273,5 +273,11 @@ h3, h4 {
     position: relative;
     width: 100%;
     text-align: center;
-    padding-top: 20px;
+    padding-top: 35px;
+}
+
+.secondary-footer h3, h4 {
+    font-family: "Exo", sans-serif;
+    color: #ffffff;
+    font-size: 20px;
 }

@@ -39,7 +39,7 @@ We used Font Awesome and the following fonts: Google Font Roboto and Exo
 
 6. Deployment
 
-The website has been deployed to GitHub. Here is the link: 
+The website has been deployed to GitHub. Here is the link: https://whatdoweknow.github.io/the-band-milestone1/index.html
 
 -------------------------------------
 

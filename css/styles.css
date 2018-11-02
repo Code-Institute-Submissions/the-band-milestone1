@@ -95,6 +95,15 @@
     margin-left: 10px;
     margin-right: 10px;
 }
+
+.main-section .band-history h1 {
+    font-family: "Exo", sans-serif;
+    font-weight: 300;
+    color: #ffffff;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
     
 .band-history img {
     height : 215px; 
@@ -114,7 +123,7 @@
 
 .band-history p {
     font-family: "Exo", sans-serif;
-    font-size: 13px;
+    font-size: 18px;
     font-weight: 100;
     color: #ffffff;
     text-align: justify;
@@ -154,6 +163,15 @@
 
 .audio-section .album-details {
     text-align: center;
+}
+
+.main-section h1 {
+    font-family: "Exo", sans-serif;
+    font-weight: 300;
+    color: #ffffff;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    text-decoration: underline;
 }
 
 .main-section h3 {

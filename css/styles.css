@@ -52,7 +52,10 @@
     text-decoration: none;
     padding-left: 20px;
     padding-right: 20px;
-    color: rgba(255, 255, 255, 0.65);
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: rgb(255, 0, 0);
 }
 
 .navbar .navbar-nav li a:hover {
@@ -215,13 +218,6 @@
 
 /*----MAIN SECTION EVENTS STYLES----*/
 
-/*.events-main {
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}*/
-
 .events-main h1 {
     font-family: "Exo", sans-serif;
     font-weight: 300;
@@ -229,6 +225,15 @@
     padding-bottom: 20px;
     text-transform: uppercase;
     text-decoration: underline;
+}
+
+.events-main h4 {
+    font-family: "Exo", sans-serif;
+    font-size: 18px;
+    color: #ffffff;
+    padding-bottom: 15px;
+    padding-top: 20px;
+    text-transform: uppercase;
 }
 
 .events-main p {
@@ -284,13 +289,13 @@ button[type="submit"] {
 
 .main-footer h3, h4 {
     font-family: "Exo", sans-serif;
-    color: #ffffff;
+    color: rgb(255, 0, 0);
     font-size: 20px;
 }
 
-.footer-social-media  i {
+.footer-social-media li a>i {
     font-size: 20px;
-    color: #ffffff;
+    color: red;
 }
 
 .secondary-footer {
@@ -303,6 +308,6 @@ button[type="submit"] {
 
 .secondary-footer h3, h4 {
     font-family: "Exo", sans-serif;
-    color: #ffffff;
+    color: rgb(255, 0, 0);
     font-size: 20px;
 }

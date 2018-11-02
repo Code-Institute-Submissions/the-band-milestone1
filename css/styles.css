@@ -215,26 +215,43 @@
 
 /*----MAIN SECTION EVENTS STYLES----*/
 
-.events-main {
+/*.events-main {
     position: fixed;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+}*/
+
+.events-main h1 {
+    font-family: "Exo", sans-serif;
+    font-weight: 300;
+    color: #ffffff;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    text-decoration: underline;
 }
 
 .events-main p {
     font-family: "Exo", sans-serif;
     font-weight: 200;
-    font-size: 14px;
+    font-size: 18px;
     margin-top: 25px;
     margin-bottom: 20px;
     color: #ffffff;
 }
 
+.events-main .events-list li {
+    font-family: "Exo", sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    color: #ffffff;
+    border :solid 5px #ffffff;
+} 
+
 .contact-heading {
     font-family: "Exo", sans-serif;
     font-weight: 300;
-    font-size: 14px;
+    font-size: 18px;
     margin-top: 25px;
     margin-bottom: 20px;
     text-transform: uppercase;

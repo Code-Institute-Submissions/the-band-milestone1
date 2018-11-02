@@ -34,14 +34,19 @@ In this project we use HTML and CSS together with Bootstrap framework.
 We used Font Awesome and the following fonts: Google Font Roboto and Exo
 
 5. Testing
+
+------------------------------------ 
+
 6. Deployment
 
 The website has been deployed to GitHub. Here is the link: 
 
+-------------------------------------
 
 7. Credits
 
-index.html background taken from: https://wallhere.com/en/wallpaper/791453
+index.html background taken from https://wallpaperscraft.ru/download/the_doors_shrift_fon_koncert_fanaty_3809/1920x1080
+band logo taken from http://logos.wikia.com/wiki/File:The_doors_logo.jpg
 history of the band taken from: https://www.thedoors.com/the-band
 information about songs and videos from media.html are taken from wikipedia.org
 

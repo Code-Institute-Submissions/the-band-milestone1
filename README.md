@@ -2,7 +2,7 @@
 
 The project name is "The Doors". This website is to present the band itself along with some pictures. 
 Since they are mostly garage band, which plays at small family parties, weddings we will include some of the sample songs and videos to present the type of the music they play.
-We will add a contact form, so in case people are interested in get in contact with the group to book them for a performance or simply enquire about the offer.. 
+We will add a contact form, so in case people are interested in get in contact with the group to book them for a performance or simply enquire about the offer.
 
 ------------------------------------
 
@@ -14,26 +14,31 @@ By presenting the material on the website we hope it will be possible for potent
 As a potential customer we want the website to provide all relevant information that will allow you to make a decision if we are the suitable band to play on you venues.
 As a potential music producer we want to show you the type of music we are playing.
 
-Wireframes link:...
+Wireframes link: pleasee see folder the-band-milestone1/others/ - there you will find 4 wireframe files
 
 ------------------------------------
 
 3. Features
-3a. Existing Features
 
+3a. Existing Features
+Video and audio files - they allow user to view samle music the band is performing to make decision if the style is acceptable.
+Contact form - allows user to contact band to enquire about possible performance.
 
 
 3b. Features Left to Implement
 
+None
 
 ------------------------------------
 
 4. Technologies Used
 
 In this project we use HTML and CSS together with Bootstrap framework. 
-We used Font Awesome and the following fonts: Google Font Roboto and Exo
+I used Font Awesome and the following fonts: Google Font Roboto and Exo.
 
 5. Testing
+
+Testing was done using Chrome browser and Developers Tool.
 
 ------------------------------------ 
 
@@ -69,6 +74,12 @@ MP3
 
 
 7a. Content
+The information about band has been taken from wikipedia and the following website: https://www.thedoors.com/the-band.
+
 7b. Media 
+The videos were obtained from vimeo, and audio files were taken from 
+
+
 7c. Acknowledgements
+The inspiration was taken from: https://www.wix.com/website-template/view/html/1714?siteId=1070999e-8eb1-4026-bc3a-ff9e8756fe9c&metaSiteId=e5e72348-6183-4b7f-9e4e-d427696f4111&originUrl=https%3A%2F%2Fwww.wix.com%2Fwebsite%2Ftemplates%2Fhtml%2Fmusic%2Fband
 

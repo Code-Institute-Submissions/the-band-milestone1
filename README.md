@@ -71,6 +71,7 @@ https://vimeo.com/59187988 480x360
 https://vimeo.com/59220390 480x360
 
 MP3
+Both files taken from: http://www.thedoors.at/cd_mp3.html
 
 
 7a. Content
